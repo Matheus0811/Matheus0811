@@ -4,7 +4,7 @@
 
 Estou concluindo o curso de Análise e Desenvolvimento de Sistemas e desenvolvo aplicações web completas, do banco de dados à interface. Gosto de pegar um problema real, como a agenda de uma barbearia que ainda marca horário pelo WhatsApp, e transformar em um sistema simples de usar.
 
-- 🔭 Trabalhando agora no **[Agendaí](https://github.com/Matheus0811/agendai)**, um sistema de agendamento online com FastAPI, React e PostgreSQL
+- 🔭 Trabalhando agora no **[Agendaí](https://agendai-matheus.vercel.app)**, um sistema de agendamento online com FastAPI, React e PostgreSQL (já publicado, pode testar)
 - 🌱 Estudando arquitetura de APIs, testes automatizados e deploy com Docker
 - 💼 Em busca da minha primeira oportunidade como desenvolvedor (estágio ou júnior)
 - 📫 Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/matheus-galv%C3%A3o-460612292) ou pelo e-mail **matheusbg0811@gmail.com**
@@ -19,9 +19,9 @@ Estou concluindo o curso de Análise e Desenvolvimento de Sistemas e desenvolvo 
 
 | Projeto | O que é | Tecnologias |
 | --- | --- | --- |
-| [**Agendaí**](https://github.com/Matheus0811/agendai) | Sistema de agendamento para pequenos negócios: página pública de reservas, agenda por profissional e painel com faturamento | Python, FastAPI, React, PostgreSQL, Docker |
+| [**Agendaí**](https://github.com/Matheus0811/agendai) | Sistema de agendamento para pequenos negócios: página pública de reservas, agenda por profissional e painel com faturamento. [Ver online](https://agendai-matheus.vercel.app) | Python, FastAPI, React, PostgreSQL, Docker |
 | [**Agenda de Contatos**](https://github.com/Matheus0811/agenda-contatos) | Gerenciador de contatos com estado global e componentes tipados | React, TypeScript, Redux Toolkit, Styled Components |
-| [**Clone Disney+**](https://github.com/Matheus0811/disney-clone) | Recriação da página de assinatura do Disney+, com planos e perguntas frequentes | HTML, Sass, Gulp |
+| [**Clone Disney+**](https://github.com/Matheus0811/disney-clone) | Recriação da página de assinatura do Disney+, com planos e perguntas frequentes. [Ver online](https://matheus-disney-clone.vercel.app) | HTML, Sass, Gulp |
 | [**Todo Vue**](https://github.com/Matheus0811/todo-vue) | Lista de tarefas com Vue 3 | Vue, Vite, Bootstrap |
 
 ## Contato
