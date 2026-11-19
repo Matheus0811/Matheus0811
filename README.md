@@ -7,7 +7,7 @@ Estou concluindo o curso de Análise e Desenvolvimento de Sistemas e desenvolvo 
 - 🔭 Projetos publicados e prontos para testar: **[Agendaí](https://agendai-matheus.vercel.app)**, um sistema de agendamento com FastAPI, React e PostgreSQL; **[Saldo API](https://saldo-api-matheus.vercel.app/docs)**, uma API de finanças pessoais com Node.js, TypeScript e PostgreSQL; e **[Sob Medida](https://sob-medida-matheus.vercel.app)**, um assistente com IA que compara currículo e vaga, feito com Next.js e Google Gemini
 - 🌱 Estudando arquitetura de APIs, testes automatizados e deploy com Docker
 - 💼 Em busca da minha primeira oportunidade como desenvolvedor (estágio ou júnior)
-- 📫 Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/matheus-galv%C3%A3o-460612292) ou pelo e-mail **matheusbg0811@gmail.com**
+- 📫 Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/matheus-galvao) ou pelo e-mail **matheusbg0811@gmail.com**
 
 ## Tecnologias
 
@@ -28,5 +28,5 @@ Estou concluindo o curso de Análise e Desenvolvimento de Sistemas e desenvolvo 
 
 ## Contato
 
-<a href="https://www.linkedin.com/in/matheus-galv%C3%A3o-460612292" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/matheus-galvao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:matheusbg0811@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
